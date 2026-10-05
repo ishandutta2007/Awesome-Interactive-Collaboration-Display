@@ -57,9 +57,9 @@ The table below lists top commercial hardware displays and SaaS video/whiteboard
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source software provides full freedom to build custom interactive whiteboards on standard PCs, touch displays, or web browsers. Listed below sorted by **GitHub Stars (Descending)**:
+Open-source software provides full freedom to build custom interactive whiteboards on standard PCs, touch displays, or web browsers. Listed below sorted by **GitHub_Stars (Descending)**:
 
-| Project 🚀 | GitHub Stars ⭐ | License 📜 | Description 📝 |
+| Project 🚀 | GitHub_Stars ⭐ | License 📜 | Description 📝 |
 | :--- | :--- | :--- | :--- |
 | **[Excalidraw](https://github.com/excalidraw/excalidraw)** | [![Excalidraw Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) | MIT | Virtual collaborative whiteboard for sketching hand-drawn diagrams with end-to-end encryption. |
 | **[tldraw](https://github.com/tldraw/tldraw)** | [![tldraw Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers) | MIT / SDK | Tiny canvas & infinite drawing whiteboard library powering custom collaborative applications. |
