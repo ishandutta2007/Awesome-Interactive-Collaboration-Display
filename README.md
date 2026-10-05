@@ -4,9 +4,11 @@
 
 # 🖥️ Awesome Interactive Collaboration Display
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Interactive-Collaboration-Display)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Interactive-Collaboration-Display/pulls)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🚀 **The Ultimate Curated List of Interactive Whiteboards, Touch Collaboration Devices, Digital Canvas Software, Hybrid Meeting Boards & Smart Classroom/Meeting Room Displays.**
 
@@ -18,6 +20,9 @@ Welcome to the comprehensive guide for **Interactive Collaboration Display Platf
 - [📊 Market Overview & Industry Structure](#-market-overview--industry-structure)
 - [🏢 SaaS & Hardware Platforms](#-saas--hardware-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [💡 Recommended DIY Setup](#-recommended-diy-open-source-hardware-setup)
+- [💖 Support & Community](#-support--community)
+- [📈 Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer](#-disclaimer)
 
@@ -46,7 +51,7 @@ The table below lists top commercial hardware displays and SaaS video/whiteboard
 | **[BenQ Board Pro](https://www.benq.com/en-us/business/ifp.html)** | ~$1.2 Billion Annual Revenue | $2,199.00 (BenQ RP6502 65") | Free Forever EZWrite Cloud Basic (Unlimited personal boards) | Classroom & enterprise interactive touch display with EZWrite annotation & germ-resistant screens. |
 | **[SMART Board Pro](https://www.smarttech.com/)** | ~$800 Million Valuation | $2,799.00 (SMART Board GX Series 65") | 45-Day SMART Learning Suite / Lumio Free Trial | Pioneering interactive whiteboard display with SMART Ink software & multi-touch capability. |
 | **[Neat Board](https://neat.no/board/)** | ~$500 Million Valuation | $5,790.00 (Neat Board 65") | 30-Day NeatOS Ecosystem / Partner Platform Trial | Sleek interactive touch display built natively for Zoom Rooms & Microsoft Teams. |
-| **[Avocor G-Series](https://www.avocor.com/)** | ~$250 Million Valuation | $3,299.00 (Avocor Avea / G-Series 65") | 30-Day Avocor Fuse / Partner Software Trial | Premium interactive displays designed for seamless integration with Windows, Teams, and Zoom. |
+| **[Avocor G-Series](https://www.avocor.com/)** | ~$3299.00 Valuation | $3,299.00 (Avocor Avea / G-Series 65") | 30-Day Avocor Fuse / Partner Software Trial | Premium interactive displays designed for seamless integration with Windows, Teams, and Zoom. |
 
 ---
 
@@ -76,6 +81,23 @@ For cost-effective installations in classrooms or small meeting spaces:
 2. 💻 **Compute**: Mini-PC (Intel NUC or Raspberry Pi 5) running Linux/Windows.
 3. ✏️ **Software**: Install **OpenBoard** for offline classroom teaching, or host **Excalidraw** / **tldraw** for web-based multi-user collaboration.
 4. 📹 **Video/Audio**: Connect a USB 4K Webcam & USB Speakerphone paired with **Jitsi Meet** or **BigBlueButton**.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring this interactive collaboration display repository! If you find this resource helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** on GitHub to increase its visibility.
+- 🍴 **Fork it** to contribute new hardware platforms or open-source whiteboard projects.
+- 📢 **Share it** with fellow AV professionals, educators, and open-source advocates!
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Interactive-Collaboration-Display&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Interactive-Collaboration-Display&type=date&legend=top-left)
 
 ---
 
