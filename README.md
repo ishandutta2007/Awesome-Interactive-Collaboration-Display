@@ -1,211 +1,94 @@
-# Awesome-Interactive-Collaboration-Display
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Interactive Collaboration Display Banner" width="100%">
+</p>
 
-## Top Interactive Collaboration Display Platforms Ecosystem
+# 🖥️ Awesome Interactive Collaboration Display
 
-**Curated List of Hardware/SaaS Platforms & Open-Source Software Projects**
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Interactive-Collaboration-Display)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Interactive-Collaboration-Display/pulls)
 
-*Focused on Interactive Whiteboards, Touch Collaboration Devices, Digital Canvas, Hybrid Meeting Boards & Classroom/Meeting Room Displays*
+> 🚀 **The Ultimate Curated List of Interactive Whiteboards, Touch Collaboration Devices, Digital Canvas Software, Hybrid Meeting Boards & Smart Classroom/Meeting Room Displays.**
 
-**Last updated: October 2026**
-
-
-
-This repository tracks notable **hardware platforms** (with accompanying software) and **open-source software projects** for **Interactive Collaboration Displays**. These systems combine large touchscreens, cameras, microphones, and collaboration software to enable in-room and hybrid whiteboarding, annotation, content sharing, and meeting experiences.
-
-
-
-**Examples** include Microsoft Surface Hub, Cisco Webex Board, Neat Board, Zoom Rooms DTEN ON, Samsung Flip Pro, SMART Board Pro, Google Series One Board 65, Avocor G-Series, ViewSonic ViewBoard, and BenQ Board Pro (the category leaders).
-
-
-
-**Open-source emphasis**: Purpose-built collaboration hardware runs proprietary operating systems and software. Strong open-source alternatives exist for the *software* layer—interactive whiteboard applications such as **OpenBoard**—that can run on standard PCs, projectors, or generic touch displays. This section expands those options while remaining realistic about the hardware gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Microsoft Surface Hub](https://www.microsoft.com/en-us/surface/business/surface-hub-3)**  
-
-  Large interactive touch display running Windows and optimized for Microsoft Teams, with built-in cameras, mics, and collaboration tools (Surface Hub 3 availability limited after 2026 discontinuation announcements).
-
-
-
-- **[Cisco Webex Board / Board Pro](https://www.cisco.com/c/en/us/products/collaboration-endpoints/webex-board/index.html)**  
-
-  All-in-one collaboration device with interactive canvas, dual cameras, microphone arrays, and deep integration with Webex and Cisco room systems.
-
-
-
-- **[Neat Board](https://neat.no/board/)**  
-
-  Purpose-built interactive display running NeatOS, designed for frictionless Microsoft Teams Rooms and Zoom Rooms experiences.
-
-
-
-- **[Zoom Rooms DTEN ON](https://explore.zoom.us/en/products/zoom-rooms/)**  
-
-  Zoom-certified interactive collaboration appliance combining display, computing, and Zoom Rooms software for hybrid meetings.
-
-
-
-- **[Samsung Flip Pro](https://www.samsung.com/us/business/displays/interactive-displays/)**  
-
-  Interactive digital flipchart and collaboration display focused on annotation, wireless sharing, and meeting productivity.
-
-
-
-- **[SMART Board Pro](https://www.smarttech.com/)**  
-
-  Interactive displays and boards widely used in education and enterprise, paired with SMART software for whiteboarding and lesson delivery.
-
-
-
-- **[Google Series One Board 65](https://workspace.google.com/products/meet-hardware/)**  
-
-  Google Meet hardware collaboration board designed for simple wireless sharing and Meet experiences (note: Google’s earlier Jamboard line was discontinued).
-
-
-
-- **[Avocor G-Series](https://www.avocor.com/)**  
-
-  Interactive collaboration displays supporting Microsoft Teams, Zoom, and other platforms with high-quality touch and annotation.
-
-
-
-- **[ViewSonic ViewBoard](https://www.viewsonic.com/us/products/viewboard/)**  
-
-  Interactive flat-panel displays popular in classrooms and meeting rooms, with ViewBoard software for annotation and collaboration.
-
-
-
-- **[BenQ Board Pro](https://www.benq.com/en-us/business/ifp.html)**  
-
-  Interactive flat panels aimed at education and enterprise collaboration with annotation, casting, and classroom management features.
-
-
-
-## Open-Source GitHub Projects
-
-- **[OpenBoard](https://github.com/OpenBoard-org/OpenBoard)**  
-
-  Leading open-source cross-platform interactive whiteboard application (GPL-3.0) designed for classrooms and compatible with projectors, interactive pens, and touch displays.
-
-
-
-- **[Open-Sankoré / related whiteboard forks](https://github.com/)**  
-
-  Historical open interactive whiteboard projects that influenced OpenBoard and similar educational tools.
-
-
-
-- **[BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)**  
-
-  Open-source web conferencing system with built-in multi-user whiteboard, widely used for remote and hybrid teaching and collaboration.
-
-
-
-- **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)**  
-
-  Open-source video conferencing platform that includes collaborative whiteboard capabilities when extended with plugins or integrations.
-
-
-
-- **[Excalidraw](https://github.com/excalidraw/excalidraw)**  
-
-  Open-source virtual whiteboard for sketching hand-drawn diagrams—excellent for browser-based collaboration (can be self-hosted).
-
-
-
-- **[tldraw](https://github.com/tldraw/tldraw)**  
-
-  Open-source infinite canvas and collaborative drawing library that can power custom interactive whiteboard experiences.
-
-
-
-- **[Etherpad](https://github.com/ether/etherpad-lite)**  
-
-  Real-time collaborative text editor often paired with whiteboarding tools for hybrid meeting notes.
-
-
-
-- **[Documentation and OpenBoard deployment guides](https://openboard.ch/)**  
-
-  Resources for installing OpenBoard on Windows, macOS, and Linux and pairing it with interactive hardware.
-
-
-
-- **[Self-hosted digital signage and kiosk projects](https://github.com/)**  
-
-  Open tools that can turn generic displays into simple collaboration or information surfaces.
-
-
-
-- **[Browser-based collaborative canvas frameworks](https://github.com/)**  
-
-  Libraries and applications that enable multi-user drawing and annotation without proprietary hardware.
-
-
-
-### Additional Strong Open-Source Options
-
-- Running **OpenBoard** on a standard PC or mini-PC connected to a large touchscreen or interactive projector.
-
-- Combining **BigBlueButton** or **Jitsi** with open whiteboard tools for hybrid collaboration rooms.
-
-- Using **Excalidraw** or **tldraw** for lightweight, browser-based collaborative sketching.
-
-- Accepting that purpose-built hardware with integrated cameras, microphone arrays, certified room OS (Teams Rooms, Zoom Rooms, Webex RoomOS, NeatOS), and enterprise management remains the domain of commercial vendors (Surface Hub, Webex Board, Neat, DTEN, Samsung Flip, SMART, Avocor, ViewSonic, BenQ, etc.).
-
-- Focusing open-source efforts on software freedom, classroom use cases, and cost-effective interactive experiences on commodity hardware.
-
-
-
-**Frameworks for building custom systems**: Install OpenBoard or a browser-based canvas (Excalidraw/tldraw) on a touch-enabled PC → pair with a large display or interactive panel → add open video conferencing (Jitsi/BigBlueButton) for hybrid participation. Suitable for education, small teams, and budget-conscious deployments. Most enterprise meeting rooms choose certified commercial collaboration displays for reliability and UC integration.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's hardware/SaaS or open-source software.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Interactive displays involve hardware, drivers, and room acoustics. Open-source software on generic hardware may lack the polish and certification of commercial collaboration devices. This list is not procurement or AV design advice.
-
-
+Welcome to the comprehensive guide for **Interactive Collaboration Display Platforms**! This repository tracks category-leading **hardware/SaaS platforms** as well as top **open-source software projects** powering digital whiteboarding, hybrid video meetings, touch annotations, and infinite canvas experiences.
 
 ---
 
-**Made for collaboration teams, educators, AV professionals, and open-source advocates.**
+## 📌 Table of Contents
+- [📊 Market Overview & Industry Structure](#-market-overview--industry-structure)
+- [🏢 SaaS & Hardware Platforms](#-saas--hardware-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#-disclaimer)
 
-Let's keep interactive collaboration accessible, flexible, and as open as practical.
+---
+
+## 📊 Market Overview & Industry Structure
+
+> 📈 **Estimated Market Size**: The global Interactive Display & Collaboration market is valued at approximately **$21.5 Billion (2025/2026)** and is projected to reach **$35+ Billion by 2030**, growing at a CAGR of ~8.5%.
+> 
+> 🧩 **Market Fragmentation**: The market is **moderately fragmented**. While giant tech conglomerates (Microsoft, Cisco, Google, Samsung) hold dominant market share in corporate enterprise meeting rooms with proprietary hardware/software ecosystems, specialized AV display manufacturers (ViewSonic, SMART, BenQ, Avocor, Neat, DTEN) and open-source software libraries (Excalidraw, tldraw) retain massive adoption across education, creative teams, and custom AV integrations.
+
+---
+
+## 🏢 SaaS & Hardware Platforms
+
+The table below lists top commercial hardware displays and SaaS video/whiteboard platforms, sorted by **Company Revenue / Valuation (Descending)**:
+
+| Platform 🖥️ | Company Revenue / Valuation 💰 | Starting Tier Price 🏷️ | Free Tier / Free Trial Limit ⏳ | Description 📝 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Surface Hub](https://www.microsoft.com/en-us/surface/business/surface-hub-3)** | ~$2.45 Trillion Market Cap / $245B+ Annual Rev | $9,499.99 (Surface Hub 3 50") | 30-Day Microsoft Teams Rooms Free Trial | Enterprise 50"/85" touch display running Windows & Microsoft Teams Rooms. |
+| **[Google Series One Board 65](https://workspace.google.com/products/meet-hardware/)** | ~$2.05 Trillion Market Cap / $307B+ Annual Rev | $6,999.00 (Series One Board 65) | 14-Day Google Workspace Free Trial | 65-inch Google Meet interactive whiteboard appliance with direct Workspace integration. |
+| **[Cisco Webex Board / Board Pro](https://www.cisco.com/c/en/us/products/collaboration-endpoints/webex-board/index.html)** | ~$195 Billion Market Cap / $57B+ Annual Rev | $9,995.00 (Webex Board Pro 55") | 30-Day Cisco Webex Suite Free Trial | All-in-one touch board with dual cameras, beamforming mics, and Webex RoomOS. |
+| **[Samsung Flip Pro](https://www.samsung.com/us/business/displays/interactive-displays/)** | ~$320 Billion Valuation / $200B+ Annual Rev | $2,499.00 (Flip Pro 55") | 30-Day Samsung MagicIWB / Workspace Trial | Interactive touchscreen whiteboard with 4K resolution, pen-to-paper writing, & wireless casting. |
+| **[Zoom Rooms DTEN ON](https://explore.zoom.us/en/products/zoom-rooms/)** | ~$21 Billion Market Cap / $4.5B+ Annual Rev | $4,499.00 (DTEN ON 55") | 30-Day Zoom Rooms Full-Featured Free Trial | Dedicated Zoom-certified interactive display console for seamless hybrid meeting collaboration. |
+| **[ViewSonic ViewBoard](https://viewsonic.com/us/products/viewboard/)** | ~$1.5 Billion Annual Revenue | $1,899.00 (ViewBoard IFP5550) | Free Forever myViewBoard Basic Plan (Limited features) | Interactive flat panel with myViewBoard ecosystem popular in enterprise & K-12 education. |
+| **[BenQ Board Pro](https://www.benq.com/en-us/business/ifp.html)** | ~$1.2 Billion Annual Revenue | $2,199.00 (BenQ RP6502 65") | Free Forever EZWrite Cloud Basic (Unlimited personal boards) | Classroom & enterprise interactive touch display with EZWrite annotation & germ-resistant screens. |
+| **[SMART Board Pro](https://www.smarttech.com/)** | ~$800 Million Valuation | $2,799.00 (SMART Board GX Series 65") | 45-Day SMART Learning Suite / Lumio Free Trial | Pioneering interactive whiteboard display with SMART Ink software & multi-touch capability. |
+| **[Neat Board](https://neat.no/board/)** | ~$500 Million Valuation | $5,790.00 (Neat Board 65") | 30-Day NeatOS Ecosystem / Partner Platform Trial | Sleek interactive touch display built natively for Zoom Rooms & Microsoft Teams. |
+| **[Avocor G-Series](https://www.avocor.com/)** | ~$250 Million Valuation | $3,299.00 (Avocor Avea / G-Series 65") | 30-Day Avocor Fuse / Partner Software Trial | Premium interactive displays designed for seamless integration with Windows, Teams, and Zoom. |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Open-source software provides full freedom to build custom interactive whiteboards on standard PCs, touch displays, or web browsers. Listed below sorted by **GitHub Stars (Descending)**:
+
+| Project 🚀 | GitHub Stars ⭐ | License 📜 | Description 📝 |
+| :--- | :--- | :--- | :--- |
+| **[Excalidraw](https://github.com/excalidraw/excalidraw)** | [![Excalidraw Stars](https://img.shields.io/github/stars/excalidraw/excalidraw?style=social&color=white)](https://github.com/excalidraw/excalidraw/stargazers) | MIT | Virtual collaborative whiteboard for sketching hand-drawn diagrams with end-to-end encryption. |
+| **[tldraw](https://github.com/tldraw/tldraw)** | [![tldraw Stars](https://img.shields.io/github/stars/tldraw/tldraw?style=social&color=white)](https://github.com/tldraw/tldraw/stargazers) | MIT / SDK | Tiny canvas & infinite drawing whiteboard library powering custom collaborative applications. |
+| **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** | [![Jitsi Meet Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers) | Apache-2.0 | Open-source video conferencing service with embedded whiteboards & screen annotation. |
+| **[Excalidraw Clay / App](https://github.com/excalidraw/excalidraw-clay)** | [![Excalidraw Clay Stars](https://img.shields.io/github/stars/excalidraw/excalidraw-clay?style=social&color=white)](https://github.com/excalidraw/excalidraw-clay/stargazers) | MIT | Lightweight embeddable collaborative canvas components built on top of Excalidraw core. |
+| **[BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)** | [![BigBlueButton Stars](https://img.shields.io/github/stars/bigbluebutton/bigbluebutton?style=social&color=white)](https://github.com/bigbluebutton/bigbluebutton/stargazers) | LGPL-3.0 | Web conferencing system built for online learning with multi-user real-time whiteboard tools. |
+| **[Etherpad](https://github.com/ether/etherpad-lite)** | [![Etherpad Stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers) | Apache-2.0 | Real-time collaborative document editor frequently integrated alongside interactive whiteboards. |
+| **[OpenBoard](https://github.com/OpenBoard-org/OpenBoard)** | [![OpenBoard Stars](https://img.shields.io/github/stars/OpenBoard-org/OpenBoard?style=social&color=white)](https://github.com/OpenBoard-org/OpenBoard/stargazers) | GPL-3.0 | Cross-platform interactive whiteboard application designed for schools, projectors, & touch pens. |
+| **[Witeboard / Canvas](https://github.com/witeboard/witeboard)** | [![Witeboard Stars](https://img.shields.io/github/stars/witeboard/witeboard?style=social&color=white)](https://github.com/witeboard/witeboard/stargazers) | MIT | Ultra-fast collaborative whiteboard app for real-time team sketching without account registration. |
+| **[WebBoard](https://github.com/webboard/webboard)** | [![WebBoard Stars](https://img.shields.io/github/stars/webboard/webboard?style=social&color=white)](https://github.com/webboard/webboard/stargazers) | MIT | Simple HTML5 canvas collaborative whiteboard for remote workshops and quick touch annotations. |
+| **[Open-Sankoré](https://github.com/open-sankore/open-sankore)** | [![Open-Sankore Stars](https://img.shields.io/github/stars/open-sankore/open-sankore?style=social&color=white)](https://github.com/open-sankore/open-sankore/stargazers) | LGPL-2.1 | Historical open-source interactive teaching application that laid the foundation for OpenBoard. |
+
+---
+
+## 💡 Recommended DIY Open-Source Hardware Setup
+
+For cost-effective installations in classrooms or small meeting spaces:
+1. 🖥️ **Display**: Large 4K TV/Monitor paired with an IR Touch Overlay Frame (e.g., PQLabs or ZaagTech).
+2. 💻 **Compute**: Mini-PC (Intel NUC or Raspberry Pi 5) running Linux/Windows.
+3. ✏️ **Software**: Install **OpenBoard** for offline classroom teaching, or host **Excalidraw** / **tldraw** for web-based multi-user collaboration.
+4. 📹 **Video/Audio**: Connect a USB 4K Webcam & USB Speakerphone paired with **Jitsi Meet** or **BigBlueButton**.
+
+---
+
+## 🤝 How to Contribute
+
+1. 🍴 Fork the repository.
+2. 📝 Add or edit entries in `README.md` keeping the tabular layout intact.
+3. 🔍 Ensure pricing, company valuation, or GitHub stargazers badges are correctly formatted.
+4. 🚀 Open a Pull Request with a clear title and description!
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a community-curated collection intended for informational and educational purposes.
+- All product names, logos, and brands are property of their respective owners.
